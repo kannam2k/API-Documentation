@@ -104,7 +104,7 @@ https://swapi.dev/api/people
 |eye_color * |	string	|The eye color of this person. Will be "unknown" if not known or "n/a" if the person does not have an eye.|
 |birth_year *	|string	|The birth year of the person, using the in-universe standard of BBY or ABY - Before the Battle of Yavin or After the Battle of Yavin. The Battle of Yavin is a battle that occurs at the end of Star Wars episode IV: A New Hope.|
 |gender *	|string	|The gender of this person. Either "Male", "Female" or "unknown", "n/a" if the person does not have a gender.|
-|homeworld * |	string	|The URL of a planet resource, a planet that this person was born on or inhabits.|
+|homeworld *   |	string	|The URL of a planet resource, a planet that this person was born on or inhabits.|
 |films *	|Array |	An array of film resource URLs that this person has been in.|
 |species	|Array 	|An array of species resource URLs that this person belongs to.|
 |starships	|Array |	An array of starship resource URLs that this person has piloted.|
