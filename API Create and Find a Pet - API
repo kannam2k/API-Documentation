@@ -1,12 +1,8 @@
 # People API
-
 ## API Reference
-
 ### Introduction:
 This API is used to add a new pet to the store.
-
 Method: POST
-
 Base URL:
 
 > https://petstore3.swagger.io/api/v3/pet
