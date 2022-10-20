@@ -1,0 +1,32 @@
+[
+{
+"person_1": {
+"name":"Raj",
+"address": ["8-3-246/A/3", "Bhagathnagar", "505001"] ,
+"city":"Karimnagar",
+"seacoast": true,
+"numberofdep" : 1,
+"status": "best"
+}
+},
+{
+"person_2": {
+    "name":"Sahithi",
+    "address":["246/A/3", "Tulasinagar", "505081"],
+    "city":"hyderabad",
+    "seacoast": true,
+    "numberofdep" : 2,
+    "status": "acquaint"
+}
+},
+{
+"person_3": {
+    "name":"Sabitha",
+    "address":["8-3-3", "Gandhi Street", "500001"],
+    "city":"Bangalore",
+    "seacoast": false,
+    "numberofdep" : 5,
+    "status": "relative"
+}
+}
+]

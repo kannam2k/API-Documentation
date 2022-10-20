@@ -1,0 +1,21 @@
+[{
+    "vegornonveg": "nonveg",
+    "name" : "Raj",
+    "pincode" : "505001",
+    "pizza_toppings" : ["Pepperoni", "Sausage", "Mushrooms"],
+    "discount" : true
+    },
+    {
+        "vegornonveg": "veg",
+        "name" : "Sahithi",
+        "pincode" : "505002",
+        "pizza_toppings" : ["Pepperoni", "Bacon", "Onions"],
+        "discount" : false
+    },
+    {
+        "vegornonveg": "nonveg",
+        "name" : "Sabitha",
+        "pincode" : "505081",
+        "pizza_toppings" : ["Extra Cheese", "Peppers", "Chicken"],
+        "discount" : true
+    }]
